@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<install>
+    <info>
+        <name></name>
+        <dependence></dependence>
+        <date></date>
+        <author></author>
+        <stepscount></stepscount>
+    </info>
+    <data>
+        <step>
+            <name></name>
+            <option></option>
+            <path></path>
+            <prams></prams>
+						<folder_name></folder_name>
+						<dest_path></dest_path>
+        </step>
+    </data>
+</install>
